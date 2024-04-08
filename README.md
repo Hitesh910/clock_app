@@ -3,7 +3,6 @@ clock for Android smartphones and tablets that brings pure alarm experience to y
 It is made to help you regulate your daily life and sleep better.
 
 # Feature
-
 - In clock app 3 type of clocks
 - Digital clock,Analog clock and Strap clock
 
