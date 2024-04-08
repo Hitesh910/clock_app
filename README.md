@@ -1,9 +1,8 @@
-#Clock App
-
+# Clock App
 clock for Android smartphones and tablets that brings pure alarm experience to you by combining powerful features and clean interface.
 It is made to help you regulate your daily life and sleep better.
 
-#Feature
+# Feature
 
 - In clock app 3 type of clocks
 - Digital clock,Analog clock and Strap clock
