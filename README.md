@@ -1,3 +1,13 @@
+#Clock App
+
+clock for Android smartphones and tablets that brings pure alarm experience to you by combining powerful features and clean interface.
+It is made to help you regulate your daily life and sleep better.
+
+#Feature
+
+- In clock app 3 type of clocks
+- Digital clock,Analog clock and Strap clock
+
 <p>
   <img src = "https://github.com/Hitesh910/clock_app/assets/154861495/dda02c76-5c34-4635-b278-39dfedf8f33c"height="800"width="400"/>
    <img src = "https://github.com/Hitesh910/clock_app/assets/154861495/58b00349-3c74-4a4d-a1cd-5aff95967aec"height="800"width="400"/>
